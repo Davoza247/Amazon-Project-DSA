@@ -1,8 +1,8 @@
-## Amazon-Project-DSA
+# Amazon-Project-DSA
 
-# Project Description
+## Project Description
 This project, developed during my training at Digital Skills Africa Incubator Hub, demonstrates an in-depth analysis of customer review data using Excel  for data-driven decisions.
-# Analytical Tasks
+## Analytical Tasks
 1. What is the average discount % by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
