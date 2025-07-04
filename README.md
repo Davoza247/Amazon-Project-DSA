@@ -24,8 +24,6 @@ All tasks were solved in the uploaded exel cleaned file uploeaded. Key tools amo
 3. Calculated Columns
 4. Exel Formulas
 5. Power Query
-
-dashboard is a brilliant snapshot of Amazon product dynamics, and it delivers several powerful business insights at a glance. Here's a breakdown of the key takeaways:
 ## Business Insights and Key Takeaways
 ### 🧮 **Marketplace Metrics That Matter**
 - **Total Products:** 1,464  
@@ -36,7 +34,7 @@ dashboard is a brilliant snapshot of Amazon product dynamics, and it delivers se
 📊 **Category Breakdown**
 - Categories like **Computers & Accessories, Health & Personal Care, Home Improvement**, and **Toys & Games** dominate the listing count.
 
-📌 *Insight:* These areas likely represent Amazon’s most competitive battlegrounds. KMS could tap into trend forecasting to ride the wave and identify underserved niches for breakout growth
+📌 *Insight:* These areas likely represent Amazon’s most competitive battlegrounds. THe Company could tap into trend forecasting to ride the wave and identify underserved niches for breakout growth
 
 ### 💰 **Pricing Power: Actual vs Discounted**
 - Several categories show substantial price drops between actual and discounted prices.
@@ -65,8 +63,6 @@ dashboard is a brilliant snapshot of Amazon product dynamics, and it delivers se
 ### ⚖️ **Ratings vs Discount Correlation**
 - The scatter plot hints at a mixed relationship—products don’t always benefit from steeper discounts in terms of rating.
 
-📌 *Conclusion:* Quality trumps markdowns. Focus on feature clarity, customer experience, and post-purchase support.
-
-Thank You.
+📌 *Conclusion:* Prioritize quality over discounts. Emphasize clear product features, deliver a seamless customer experience, and maintain strong post-purchase support
 
 
