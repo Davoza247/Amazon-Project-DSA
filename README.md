@@ -1,4 +1,4 @@
-# Amazon-Project-DSA
+o# Amazon-Project-DSA
 "Welcome! I'm **David Adoza Adabara**, a data analyst with a passion for transforming raw data into business intelligence. This repository showcases my analytics projects, ranging from Excel-powered dashboards to SQL data pipelines and predictive modeling with Power BI.
 # Project Description
 This project, developed during my training at Digital Skills Africa Incubator Hub, demonstrates an in-depth analysis of customer review data using Excel  for data-driven decisions.
@@ -51,7 +51,7 @@ All tasks were solved in the uploaded exel cleaned file uploeaded. Key tools amo
 📌 *Growth Hack:* Spotlight low-review, high-rating products through promotions or review drives to accelerate trust signals.
 
 # 🔍 **Top 5 Products by Rating & Reviews**
-- Standout performers include products labeled *Item1*, *UNDEFINED*, *Item2*, etc. These are your crowd-pleasers.
+- Standout performers include products labeled *In Ear", etc. These are your crowd-pleasers.
 
 📌 *Strategic Play:* Reverse-engineer what’s working—check title clarity, visuals, and price alignment. Then replicate across lower-performing listings.
 
