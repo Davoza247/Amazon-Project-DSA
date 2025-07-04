@@ -1,5 +1,5 @@
-# Amazon-Project-DSA
-"Welcome! I'm **David Adoza Adabara**, a data analyst with a passion for transforming raw data into business intelligence. This repository showcases my analytics projects, ranging from Excel-powered dashboards to SQL data pipelines and predictive modeling with Power BI.
+## Amazon-Project-DSA
+
 # Project Description
 This project, developed during my training at Digital Skills Africa Incubator Hub, demonstrates an in-depth analysis of customer review data using Excel  for data-driven decisions.
 # Analytical Tasks
